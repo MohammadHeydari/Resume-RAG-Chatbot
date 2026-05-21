@@ -116,7 +116,7 @@ streamlit run main.py
 
 ---
 
-## 🧪 Example Questions
+## Example Questions
 
 * "What is your experience?"
 * "What did your study?"
@@ -124,7 +124,7 @@ streamlit run main.py
 
 ---
 
-## 🎯 Use Case
+## Use Case
 
 * Personal AI assistant for any resume
 * Interview preparation
