@@ -1,0 +1,19 @@
+# created by virtualenv automatically
+# virtual env
+.venv/
+
+# IDE
+.idea/
+
+# python
+__pycache__/
+*.pyc
+
+# vector db
+chroma_db/
+
+# data files (optional)
+data/
+
+# env
+.env
